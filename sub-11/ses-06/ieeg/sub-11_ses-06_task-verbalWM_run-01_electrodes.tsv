@@ -1,0 +1,37 @@
+name	x	y	z	size	AnatomicalLocation
+mAHR1	25.3205308172593	-14.5815190566615	-11.8928486707959	1.3	no_label_found
+mAHR2	27.8977984037808	-14.2529371272281	-11.8488714312015	1.3	no_label_found
+mAHR3	34.4699194226644	-13.9752380798524	-10.7460050599375	1.3	BG, Right Basal Ganglia vmPu, ventromedial putamen
+mAHR4	39.3855708654885	-12.7374078669599	-9.70259776012303	1.3	INS, Right Insular Gyrus vId/vIg, ventral dysgranular and granular insula
+mAHR5	46.0685608492788	-11.5638355559309	-7.76567043786991	1.3	no_label_found
+mAHR6	51.4672591821093	-11.2015121267022	-6.71165536525031	1.3	STG, Right Superior Temporal Gyrus A22r, rostral area 22
+mAHR7	55.7881901649592	-10.7917630157163	-5.41419708336419	1.3	STG, Right Superior Temporal Gyrus A22r, rostral area 22
+mAHR8	62.4281947952935	-9.12461332169115	-3.92508930789352	1.3	STG, Right Superior Temporal Gyrus A22r, rostral area 22
+mPHL1	33.6168902974333	-27.8858858707483	-6.62927299210937	1.3	Hipp, Right Hippocampus cHipp, caudal hippocampus
+mPHL2	36.4400768058667	-29.4717187978245	-6.65521636673996	1.3	no_label_found
+mPHL3	42.7622953757692	-31.8356684558606	-5.84872684388705	1.3	no_label_found
+mPHL4	48.3953150769694	-33.6521440894494	-4.91294953105877	1.3	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+mPHL5	54.462407739342	-35.9509460081919	-4.61062004931849	1.3	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+mPHL6	59.0077145939572	-37.6630041201448	-3.4278534687972	1.3	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+mPHL7	65.3454075513569	-39.4283636963448	-2.89051131490829	1.3	MTG, Right Middle Temporal Gyrus A21c, caudal area 21
+mPHL8	71.1743738001998	-40.6718694453159	-1.52705290063642	1.3	no_label_found
+mPHR1	-31.1208214444574	-32.4415356734796	-1.9052276883468	1.3	no_label_found
+mPHR2	-33.5930728910608	-32.3908589019998	-1.33438866211941	1.3	no_label_found
+mPHR3	-39.8525124545418	-29.6142738553908	-0.66143684011113	1.3	no_label_found
+mPHR4	-44.0548868995212	-27.684019458589	-0.0117757635576185	1.3	STG, Left Superior Temporal Gyrus A22r, rostral area 22
+mPHR5	-49.7006062504818	-25.6095436352971	1.18994360814701	1.3	STG, Left Superior Temporal Gyrus A22r, rostral area 22
+mPHR6	-54.3711124497322	-23.9819928946928	1.84168961107437	1.3	STG, Left Superior Temporal Gyrus A22r, rostral area 22
+mPHR7	-60.0079294039823	-21.3674131662044	2.48722703609612	1.3	STG, Left Superior Temporal Gyrus A22r, rostral area 22
+mPHR8	-64.7876674366167	-19.0550447588177	3.96626854618319	1.3	STG, Left Superior Temporal Gyrus A22r, rostral area 22
+mTBAL1	-28	21	-20	4	OrG, Left Orbital Gyrus A11l, lateral area 11
+mTBAL2	-37	17	-20	4	STG, Left Superior Temporal Gyrus A38l, lateral area 38
+mTBAL3	-45	11	-18	4	STG, Left Superior Temporal Gyrus A38l, lateral area 38
+mTBAL4	-52	2	-14	4	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+mTBPL1	-23	-6	-11	4	no_label_found
+mTBPL2	-33	-10	-13	4	no_label_found
+mTBPL3	-43	-13	-14	4	no_label_found
+mTBPL4	-53	-18	-12	4	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+mTLSL1	-41	-27	6	4	no_label_found
+mTLSL2	-45	-36	9	4	pSTS, Left posterior Superior Temporal Sulcus rpSTS, rostroposterior superior temporal sulcus
+mTLSL3	-48	-46	10	4	pSTS, Left posterior Superior Temporal Sulcus cpSTS, caudoposterior superior temporal sulcus
+mTLSL4	-51	-58	11	4	MTG, Left Middle Temporal Gyrus A37dl, dorsolateral area37

@@ -17,7 +17,11 @@
         "SNSF Ambizione fellowship, SNSF PZ00P3_167836",
         "Alexander S Onassis Foundation PhD Scholarship"
     ],
-    "EthicsApprovals": ["The participants provided written informed consent for the study, which was approved by the institutional ethics review board (PB 2016–02055)."],
-    "ReferencesAndLinks": ["Vasileios Dimakopoulos, Pierre Mégevand, Lennart H Stieglitz, Lukas Imbach, Johannes Sarnthein (2022) Information flows from hippocampus to auditory cortex during replay of verbal working memory items eLife 11:e78677. https://doi.org/10.7554/eLife.78677"],
-    "DatasetDOI": "add the doi from openneuro"
+    "EthicsApprovals": [
+        "The participants provided written informed consent for the study, which was approved by the institutional ethics review board (PB 2016–02055)."
+    ],
+    "ReferencesAndLinks": [
+        "Vasileios Dimakopoulos, Pierre Mégevand, Lennart H Stieglitz, Lukas Imbach, Johannes Sarnthein (2022) Information flows from hippocampus to auditory cortex during replay of verbal working memory items eLife 11:e78677. https://doi.org/10.7554/eLife.78677"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004752.v1.0.0"
 }

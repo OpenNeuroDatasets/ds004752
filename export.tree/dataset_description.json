@@ -1,0 +1,27 @@
+{
+    "Name": "Dataset of intracranial EEG, scalp EEG and beamforming sources from epilepsy patients performing a verbal working memory task",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Vasileios Dimakopoulos",
+        "Pierre Mégevand",
+        "Lennart Stieglitz",
+        "Lukas Imbach",
+        "Johannes Sarnthein"
+    ],
+    "Acknowledgements": "We thank the physicians and the staff at Schweizerische Epilepsie-Klinik for their assistance and the patients for their participation. We acknowledge grants awarded by the Swiss National Science Foundation (funded by SNSF 204651 to JS) and SNSF Ambizione fellowship (PZ00P3_167836 to PM) and a scholarship by Alexander S Onassis Foundation (to VD). The funders had no role in the design or analysis of the study.",
+    "HowToAcknowledge": "Please cite this paper: https://doi.org/10.7554/eLife.78677",
+    "Funding": [
+        "Swiss National Science Foundation, SNSF 204651",
+        "SNSF Ambizione fellowship, SNSF PZ00P3_167836",
+        "Alexander S Onassis Foundation PhD Scholarship"
+    ],
+    "EthicsApprovals": [
+        "The participants provided written informed consent for the study, which was approved by the institutional ethics review board (PB 2016–02055)."
+    ],
+    "ReferencesAndLinks": [
+        "Vasileios Dimakopoulos, Pierre Mégevand, Lennart H Stieglitz, Lukas Imbach, Johannes Sarnthein (2022) Information flows from hippocampus to auditory cortex during replay of verbal working memory items eLife 11:e78677. https://doi.org/10.7554/eLife.78677"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004752.v1.0.0"
+}

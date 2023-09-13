@@ -1,0 +1,11 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency
+Fp1	EEG	μV	1000	0.5	200
+Fp2	EEG	μV	1000	0.5	200
+F3	EEG	μV	1000	0.5	200
+F4	EEG	μV	1000	0.5	200
+C3	EEG	μV	1000	0.5	200
+C4	EEG	μV	1000	0.5	200
+O1	EEG	μV	1000	0.5	200
+O2	EEG	μV	1000	0.5	200
+A1	EEG	μV	1000	0.5	200
+A2	EEG	μV	1000	0.5	200

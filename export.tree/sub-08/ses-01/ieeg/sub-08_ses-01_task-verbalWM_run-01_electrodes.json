@@ -1,0 +1,27 @@
+{
+    "name": {
+        "Description": "the label of the electrode",
+        "Type": "object"
+    },
+    "x": {
+        "Description": "the MNI coordinate of the electrode in the x-axis",
+        "Type": "object"
+    },
+    "y": {
+        "Description": "the MNI coordinate of the electrode in the y-axis",
+        "Type": "object"
+    },
+    "z": {
+        "Description": "the MNI coordinate of the electrode in the z-axis",
+        "Type": "object"
+    },
+    "size": {
+        "Description": "the size of electrode in mm if it is a depth electrode size defines the diameter, if it is an ECOG electrode size defines the contact surface in mm^2",
+        "Type": "object",
+        "Units": "mm"
+    },
+    "AnatomicalLocation": {
+        "Description": "the anatomical location of the electrode after mapping its MNI coordinates to the Brainnetome atlas",
+        "Type": "object"
+    }
+}

@@ -1,0 +1,81 @@
+name	x	y	z	size	AnatomicalLocation
+_AHL1	-56.60688	-3.743791	0.736003	1.3	Hipp, Left Hippocampus cHipp, caudal hippocampus
+_AHL2	-57.107052	-7.681545	6.786263	1.3	Hipp, Left Hippocampus cHipp, caudal hippocampus
+_AHL3	-58.030293	-11.441793	14.971057	1.3	no_label_found
+_AHL4	-57.118706	-13.18455	25.008215	1.3	no_label_found
+_AHL5	-55.176064	-15.700569	33.7076	1.3	no_label_found
+_AHL6	-49.616795	-17.892143	40.830093	1.3	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+_AHL7	-39.224373	-20.555828	46.558975	1.3	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+_AHL8	-29.112265	-22.322426	53.23682	1.3	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+_GL_A1	-63.131363	-13.538513	-4.067881	4	STG, Left Superior Temporal Gyrus A22r, rostral area 22
+_GL_A2	-63.452492	-15.672823	5.217931	4	STG, Left Superior Temporal Gyrus A22c, caudal area 22
+_GL_A3	-60.809216	-20.055691	14.406368	4	IPL, Left Inferior Parietal Lobule A40rv, rostroventral area 40 (PFop)
+_GL_A4	-60.378017	-21.489666	21.972153	4	IPL, Left Inferior Parietal Lobule A40rv, rostroventral area 40 (PFop)
+_GL_A5	-56.270401	-23.901644	30.786507	4	no_label_found
+_GL_A6	-50.682816	-26.345369	37.183411	4	IPL, Left Inferior Parietal Lobule A40rd, rostrodorsal area 40 (PFt)
+_GL_A7	-43.155426	-30.212944	44.563793	4	PoG, Left Postcentral Gyrus A2, area 2
+_GL_A8	-30.763678	-30.789066	49.225365	4	no_label_found
+_GL_B1	-64.991585	-21.657162	-7.019449	4	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+_GL_B2	-65.399734	-23.842985	1.98559	4	STG, Left Superior Temporal Gyrus A22c, caudal area 22
+_GL_B3	-61.994812	-29.356577	10.602388	4	STG, Left Superior Temporal Gyrus A41/42, area 41/42
+_GL_B4	-63.036804	-31.017517	20.714725	4	IPL, Left Inferior Parietal Lobule A40rv, rostroventral area 40 (PFop)
+_GL_B5	-61.369949	-33.939514	28.892317	4	IPL, Left Inferior Parietal Lobule A40rv, rostroventral area 40 (PFop)
+_GL_B6	-56.521805	-36.725853	36.3573	4	IPL, Left Inferior Parietal Lobule A40c, caudal area 40 (PFm)
+_GL_B7	-49.669262	-40.353725	43.384258	4	IPL, Left Inferior Parietal Lobule A40c, caudal area 40 (PFm)
+_GL_B8	-38.099503	-42.14782	50.281528	4	IPL, Left Inferior Parietal Lobule A40rd, rostrodorsal area 40 (PFt)
+_GL_C1	-65.389854	-29.238026	-9.994279	4	MTG, Left Middle Temporal Gyrus A21c, caudal area 21
+_GL_C2	-65.134758	-32.930084	-1.533942	4	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+_GL_C3	-64.617546	-38.008205	8.485346	4	pSTS, Left posterior Superior Temporal Sulcus cpSTS, caudoposterior superior temporal sulcus
+_GL_C4	-64.829475	-40.587948	14.836009	4	pSTS, Left posterior Superior Temporal Sulcus cpSTS, caudoposterior superior temporal sulcus
+_GL_C5	-62.542599	-42.637321	25.784201	4	IPL, Left Inferior Parietal Lobule A40c, caudal area 40 (PFm)
+_GL_C6	-58.560291	-46.705482	33.730778	4	IPL, Left Inferior Parietal Lobule A40c, caudal area 40 (PFm)
+_GL_C7	-50.240299	-47.171715	41.099346	4	IPL, Left Inferior Parietal Lobule A40c, caudal area 40 (PFm)
+_GL_C8	-41.755482	-50.713398	47.76643	4	IPL, Left Inferior Parietal Lobule A40rd, rostrodorsal area 40 (PFt)
+_GL_D1	-63.830139	-37.512802	-14.732802	4	MTG, Left Middle Temporal Gyrus A21c, caudal area 21
+_GL_D2	-65.324966	-41.595993	-4.269402	4	MTG, Left Middle Temporal Gyrus A21c, caudal area 21
+_GL_D3	-64.395676	-44.928387	2.564274	4	MTG, Left Middle Temporal Gyrus A37dl, dorsolateral area37
+_GL_D4	-63.571594	-48.089653	14.175787	4	IPL, Left Inferior Parietal Lobule A39rv, rostroventral area 39 (PGa)
+_GL_D5	-60.781349	-52.618153	22.196442	4	IPL, Left Inferior Parietal Lobule A39rv, rostroventral area 39 (PGa)
+_GL_D6	-56.120083	-55.408112	30.467146	4	IPL, Left Inferior Parietal Lobule A39rv, rostroventral area 39 (PGa)
+_GL_D7	-49.023525	-59.471565	37.539623	4	IPL, Left Inferior Parietal Lobule A39rv, rostroventral area 39 (PGa)
+_GL_D8	-38.683365	-59.757027	43.560658	4	IPL, Left Inferior Parietal Lobule A39rd, rostrodorsal area 39 (Hip3)
+_GL_E1	-60.507183	-44.69162	-18.633181	4	ITG, Left Inferior Temporal Gyrus A20cl, caudolateral of area 20
+_GL_E2	-63.252411	-49.752804	-9.117172	4	MTG, Left Middle Temporal Gyrus A37dl, dorsolateral area37
+_GL_E3	-62.38192	-53.439762	-0.503301	4	MTG, Left Middle Temporal Gyrus A37dl, dorsolateral area37
+_GL_E4	-60.14563	-56.889591	9.578698	4	MTG, Left Middle Temporal Gyrus A37dl, dorsolateral area37
+_GL_E5	-54.158775	-58.224007	16.536211	4	IPL, Left Inferior Parietal Lobule A39rv, rostroventral area 39 (PGa)
+_GL_E6	-44.843567	-62.231621	25.925011	4	IPL, Left Inferior Parietal Lobule A39c, caudal area 39 (PGp)
+_GL_E7	-40.059631	-63.873711	31.702869	4	no_label_found
+_GL_E8	-35.125916	-68.337334	40.642052	4	IPL, Left Inferior Parietal Lobule A39rd, rostrodorsal area 39 (Hip3)
+_GL_F1	-56.63731	-53.586834	-21.661415	4	ITG, Left Inferior Temporal Gyrus A37elv, extreme lateroventral area37
+_GL_F2	-59.290962	-57.156319	-14.190413	4	ITG, Left Inferior Temporal Gyrus A37vl, ventrolateral area 37
+_GL_F3	-55.981602	-62.345024	-6.048244	4	ITG, Left Inferior Temporal Gyrus A37vl, ventrolateral area 37
+_GL_F4	-52.718807	-64.857277	1.823606	4	MTG, Left Middle Temporal Gyrus A37dl, dorsolateral area37
+_GL_F5	-43.377598	-64.138443	7.53113	4	IPL, Left Inferior Parietal Lobule A39c, caudal area 39 (PGp)
+_GL_F6	-44.501114	-71.788017	19.923857	4	IPL, Left Inferior Parietal Lobule A39c, caudal area 39 (PGp)
+_GL_F7	-39.97208	-75.12043	27.805254	4	IPL, Left Inferior Parietal Lobule A39c, caudal area 39 (PGp)
+_GL_F8	-32.529095	-76.311615	34.495262	4	LOcC, Left lateral Occipital Cortex lsOccG, lateral superior occipital gyrus
+_GL_G1	-53.393024	-59.905079	-25.380396	4	no_label_found
+_GL_G2	-54.823582	-63.623093	-17.033407	4	ITG, Left Inferior Temporal Gyrus A37elv, extreme lateroventral area37
+_GL_G3	-52.379707	-68.433578	-8.793666	4	LOcC, Left lateral Occipital Cortex V5/MT+, area V5/MT+
+_GL_G4	-48.250946	-71.093491	-0.921706	4	LOcC, Left lateral Occipital Cortex V5/MT+, area V5/MT+
+_GL_G5	-42.992519	-73.669609	3.986493	4	LOcC, Left lateral Occipital Cortex V5/MT+, area V5/MT+
+_GL_G6	-37.304634	-79.02504	13.870215	4	LOcC, Left lateral Occipital Cortex mOccG, middle occipital gyrus
+_GL_G7	-31.424835	-80.997108	22.751389	4	LOcC, Left lateral Occipital Cortex lsOccG, lateral superior occipital gyrus
+_GL_G8	-20.101362	-82.657127	27.40658	4	no_label_found
+_GL_H1	-30.8235646764923	-19.6446411036402	-21.295059788535	4	Hipp, Left Hippocampus cHipp, caudal hippocampus
+_GL_H2	-35.0154767063981	-19.8722530552245	-20.0379306590153	4	no_label_found
+_GL_H3	-40.8234625806592	-19.3080679883019	-18.2754005287214	4	no_label_found
+_GL_H4	-45.01987667802	-18.4688440966841	-16.7706023747856	4	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+_GL_H5	-50.4507353265488	-19.0883736490844	-14.4723352561964	4	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+_GL_H6	-55.3593923439538	-18.4068030573515	-12.9580043502649	4	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+_GL_H7	-59.6683441103144	-18.8803366082274	-10.6640926355204	4	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus
+_GL_H8	-63.9663236414721	-18.7798144445766	0	4	no_label_found
+_PHL1	-31.1239627075236	-30.1119804843951	-4.86285002168366	1.3	no_label_found
+_PHL2	-34.7402583138126	-31.3766123139101	-4.21744566834257	1.3	Hipp, Left Hippocampus cHipp, caudal hippocampus
+_PHL3	-40.3706323038537	-32.8585534485787	-4.13620932153189	1.3	no_label_found
+_PHL4	-45.862732218587	-34.2991137391167	-4.15082906442775	1.3	pSTS, Left posterior Superior Temporal Sulcus rpSTS, rostroposterior superior temporal sulcus
+_PHL5	-50.8447253280922	-34.76029842914	-2.43476058981073	1.3	pSTS, Left posterior Superior Temporal Sulcus rpSTS, rostroposterior superior temporal sulcus
+_PHL6	-55.0304037167745	-37.3314801515509	-1.26490140065838	1.3	pSTS, Left posterior Superior Temporal Sulcus rpSTS, rostroposterior superior temporal sulcus
+_PHL7	-59.2634043059296	-38.4244854137601	1.3212151879779	1.3	pSTS, Left posterior Superior Temporal Sulcus rpSTS, rostroposterior superior temporal sulcus
+_PHL8	-64.5497798006213	-38.8228160418549	5.69029817406087	1.3	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus

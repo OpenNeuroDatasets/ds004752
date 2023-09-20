@@ -1,0 +1,52 @@
+{
+    "onset": {
+        "Description": "onset of trial in seconds",
+        "Type": "object"
+    },
+    "duration": {
+        "Description": "duration of trial in seconds",
+        "Type": "object",
+        "Units": "seconds"
+    },
+    "nTrial": {
+        "Description": "the number of the trial",
+        "Type": "object"
+    },
+    "begSample": {
+        "Description": "the beginning sample of the trial since the start of the recording",
+        "Type": "object"
+    },
+    "endSample": {
+        "Description": "the last sample of the trial since the start of the recording",
+        "Type": "object"
+    },
+    "SetSize": {
+        "Description": "the number of letters shown to the participant during the encoding period of the verbal working memory task",
+        "Type": "object"
+    },
+    "ProbeLetter": {
+        "Description": "the letter shown to the participant during the retrieval period of the verbal working memory task",
+        "Type": "object"
+    },
+    "Match": {
+        "Description": "IN if the probe letter was part of the set of the letters shown during encoding or OUT otherwise",
+        "Type": "object",
+        "Levels": {
+            "IN": "IN",
+            "OUT": "OUT"
+        }
+    },
+    "Correct": {
+        "Description": "the field indicates whether the response of the participant was correct or not",
+        "Type": "object"
+    },
+    "ResponseTime": {
+        "Description": "the response time of the participant since the probe letter appeared",
+        "Units": "seconds",
+        "Type": "object"
+    },
+    "Artifact": {
+        "Description": "boolean flag indicating if a trial has artifacts",
+        "Type": "object"
+    }
+}
